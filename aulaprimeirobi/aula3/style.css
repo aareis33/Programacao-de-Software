@@ -1,0 +1,40 @@
+* {
+    background-color: lightskyblue;
+}
+
+
+
+h1 {   
+    color: blue;
+   text-align: center;
+}
+p {
+    color: green;
+    text-align: center;
+}
+
+#teste {
+    color: aquamarine;
+}
+
+#hero {
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.lista {
+    font-size: 1rem;
+    list-style: none;
+}
+
+li p {
+    font-style: italic;
+
+}
+
+li p {
+    
+}
