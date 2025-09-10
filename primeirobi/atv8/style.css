@@ -1,0 +1,5 @@
+.header img {
+    max-width: 45px; /* Reduza este valor para diminuir a imagem */
+    height: auto;
+    margin-bottom: 20px;
+}
