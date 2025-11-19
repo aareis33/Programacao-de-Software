@@ -1,0 +1,12 @@
+{
+  "name": "retifica_santa_tereza_do_oeste",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Alexandre",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
